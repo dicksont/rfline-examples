@@ -5,13 +5,15 @@ This repository demonstrates how to use the [RFLine library](/dicksont/rfline).
 
 ## To run the sample apps
 
-From the rfline-examples root, do
+From the rfline-examples root, install the rfline library with:
 ```Shell
+npm install
+```
 
-npm -i rfline
+Try out the binaries on the LICENSE file for this repository with:
+```Shell
 bin/linecount.js LICENSE
 bin/cat.js LICENSE
-
 ```
 
 ## License 
