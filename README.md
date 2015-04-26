@@ -5,7 +5,7 @@ This repository demonstrates how to use the [RFLine library](/dicksont/rfline).
 
 ## To run the sample apps
 
-From the rfline-examples root, install the rfline library with:
+From the rfline-examples root, install the [RFLine library](/dicksont/rfline) with:
 ```Shell
 npm install
 ```
