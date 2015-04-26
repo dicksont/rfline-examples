@@ -1,0 +1,24 @@
+{
+  "name": "rfline-examples",
+  "version": "0.1.1",
+  "description": "Sample apps that demonstrate how to use the RFLine library",
+  "dependencies": {
+    "rfline" : "=0.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dicksont/rfline-examples.git"
+  },
+  "keywords": [
+    "rfline",
+    "examples",
+    "sample",
+    "apps"
+  ],
+  "bugs": {
+    "url": "https://github.com/dicksont/rfline-examples/issues"
+  },
+  "homepage": "https://github.com/dicksont/rfline-examples",
+  "author": "Dickson Tam <dicksont650@gmail.com>",
+  "license": "MIT"
+}
