@@ -1,7 +1,7 @@
 
 # RFLine Examples
 
-This repository demonstrates how to use the [RFLine library](/dicksont/rfline).
+This repository demonstrates how to use the Node.js [RFLine file line reader library](/dicksont/rfline).
 
 ## To run the sample apps
 
