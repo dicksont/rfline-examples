@@ -10,7 +10,7 @@ From *rfline-examples/* , install the [RFLine library](/dicksont/rfline) with:
 npm install
 ```
 
-Try out the binaries on the *LICENSE* file for this repository with:
+Try out the binaries on the *LICENSE* file with:
 ```Shell
 bin/linecount.js LICENSE
 bin/cat.js LICENSE
