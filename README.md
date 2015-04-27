@@ -1,6 +1,8 @@
 
 # RFLine Examples
 
+[![Build Status](https://travis-ci.org/dicksont/rfline-examples.svg?branch=master)](https://travis-ci.org/dicksont/rfline-examples)
+
 This repository demonstrates how to use the Node.js [RFLine file line reader library](/dicksont/rfline).
 
 ## To run the sample apps
