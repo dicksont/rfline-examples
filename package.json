@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Sample apps that demonstrate how to use the RFLine library",
   "dependencies": {
-    "rfline" : "=0.1.1"
+    "rfline" : "^0.2.5"
   },
   "scripts": {
     "test": "sh test/sanity.sh"
