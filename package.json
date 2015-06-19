@@ -1,6 +1,6 @@
 {
   "name": "rfline-examples",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Sample apps that demonstrate how to use the RFLine library",
   "dependencies": {
     "rfline" : "^0.2.5"
